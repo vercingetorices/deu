@@ -1,0 +1,17 @@
+body {
+	display: flex;
+	flex-direction: column;
+	font-family: verdana;
+	color: #fa8072; 
+	background: #010a04;
+}
+
+.box {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	padding: 3px;
+	max-width: 20%;
+	background: #8b1c30;
+	color: #50c878;
+}
